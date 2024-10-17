@@ -28,4 +28,4 @@
 ## 資料來源
 
 - [5168 房價時價登錄網](https://price.houseprice.tw/)
-![image](螢幕擷取畫面 2024-10-17 141106.png)
+![image](https://github.com/trigo941005/selenium_houseprice/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-10-17%20141106.png)
